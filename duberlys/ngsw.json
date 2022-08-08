@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1659917578389,
+  "timestamp": 1659921843301,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.a948087c60ac823d.js",
+        "/main.34b3ab001ce5422d.js",
         "/manifest.webmanifest",
         "/polyfills.333f087bd345bab9.js",
         "/runtime.305aecc378355087.js",
-        "/styles.ef46db3751d8e999.css"
+        "/styles.3ffd5c447eb5df12.css"
       ],
       "patterns": []
     },
@@ -36,7 +36,9 @@
         "/assets/icons/icon-384x384.png",
         "/assets/icons/icon-512x512.png",
         "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/fonto.jpg",
+        "/fonto.bb98e72e63eb6bd3.jpg"
       ],
       "patterns": []
     }
@@ -51,13 +53,15 @@
     "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/img/fonto.jpg": "33a044f7b228599ca82c734baa0eb079b74832a4",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "f687126b13db8ade0a02f363c0e15d81a800acbe",
-    "/main.a948087c60ac823d.js": "a7332d3328be6eb23e3634082617082e39424b7c",
+    "/fonto.bb98e72e63eb6bd3.jpg": "33a044f7b228599ca82c734baa0eb079b74832a4",
+    "/index.html": "a9424339d4b0b3b93c5afa47a5319880794e020f",
+    "/main.34b3ab001ce5422d.js": "bc483b0279ce360508e92b2b070c381b74327dd9",
     "/manifest.webmanifest": "4df9a955ee0db4e52d132317fbcb13fcb01b45b6",
     "/polyfills.333f087bd345bab9.js": "9eda820dd5854acb32dea50f4e83ed230b3720dd",
     "/runtime.305aecc378355087.js": "3d8b62e6fafbeae996c9fb5ea4c8db953db7c16d",
-    "/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/styles.3ffd5c447eb5df12.css": "f3cf4aaf72d07d85eebf411d512d416ac7f75fef"
   },
   "navigationUrls": [
     {
