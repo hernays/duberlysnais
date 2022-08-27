@@ -1,7 +1,7 @@
 {
   "name": "duberlys",
   "short_name": "duberlys",
-  "theme_color": "#fd0d0d52",
+  "theme_color": "#490f4e",
   "background_color": "black",
   "display": "standalone",
   "scope": "./",
