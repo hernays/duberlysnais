@@ -2,7 +2,7 @@
   "name": "duberlys",
   "short_name": "duberlys",
   "theme_color": "#490f4e",
-  "background_color": "black",
+  "background_color": "#490f4e",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
